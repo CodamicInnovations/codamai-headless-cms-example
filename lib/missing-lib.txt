@@ -1,0 +1,3 @@
+Here is a missing library taht manage all headless cms actions. You will get this jar file with a license of CodamAI. Contact us at www.codamic.com.
+
+Read the documentation at: docs.codamai.com/
